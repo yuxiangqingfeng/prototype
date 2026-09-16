@@ -1,0 +1,1 @@
+import{_ as n}from"./MetricStrip.vue_vue_type_script_setup_true_lang-Cm0m1E-s.js";import{G as r,O as a,k as m,L as c}from"./vue-core-D0ANj6DP.js";const l=r({__name:"MetricStrip",props:{items:{}},setup(e){const s=e,o=m(()=>s.items.map(t=>({...t,hint:t.hint??t.note})));return(t,p)=>(c(),a(n,{items:o.value},null,8,["items"]))}});export{l as _};

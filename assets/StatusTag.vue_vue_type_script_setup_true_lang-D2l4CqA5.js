@@ -1,0 +1,1 @@
+import{_ as t}from"./StatusTag.vue_vue_type_script_setup_true_lang-BxlGx_HH.js";import{G as s,O as e,L as o}from"./vue-core-D0ANj6DP.js";const u=s({__name:"StatusTag",props:{value:{}},setup(a){return(n,r)=>(o(),e(t,{status:a.value},null,8,["status"]))}});export{u as _};
