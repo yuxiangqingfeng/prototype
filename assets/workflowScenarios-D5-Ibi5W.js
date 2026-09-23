@@ -1,0 +1,1 @@
+const o="/prototype/assets/song-catalog-ingestion-DgZ3cnxH.pos",s=[{id:"song-catalog-ingestion",title:"中心曲库歌曲入库操作使用流程图",processOnUrl:"https://www.processon.com/v/6aace41083f77758981eeece",sourceFile:o}];export{s as w};
