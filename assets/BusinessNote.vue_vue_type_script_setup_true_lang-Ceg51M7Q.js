@@ -1,0 +1,1 @@
+import{B as t}from"./BusinessNoteMarker-DHFRX9zG.js";import{G as n,L as o,O as i}from"./vue-core-DnDdPW_5.js";const l=n({__name:"BusinessNote",props:{index:{},title:{},content:{}},setup(e){return(s,c)=>(o(),i(t,{index:e.index,title:e.title,content:e.content},null,8,["index","title","content"]))}});export{l as _};
